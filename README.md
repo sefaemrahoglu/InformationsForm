@@ -1,6 +1,7 @@
-# form-verileriyle-calismak
+## Informations Form
+-Vue js ile geliştirdiğim bir form uygulaması.
+![1](/1.PNG) ![2](/2.PNG)
 
-> A Vue.js project
 
 ## Build Setup
 
