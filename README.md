@@ -1,7 +1,5 @@
 ## Informations Form
 -Vue js ile geliştirdiğim bir form uygulaması.
-![1](/1.PNG) ![2](/2.PNG)
-
 
 ## Build Setup
 
@@ -15,5 +13,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+![1](/1.PNG) ![2](/2.PNG)
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
